@@ -72,6 +72,8 @@
     /* border: 2px solid red; */
     margin: 5px;
     height: 390px ;
+    background-color: aliceblue;
+
 }
 #b{
     height: 100%;
@@ -84,7 +86,9 @@
 .container3>div{
     border: 2px solid wheat;
     height: 40px;
-    background-color: white;
+    /* background-color: white; */
+    background-color: aliceblue;
+
 }
 #a11{
     display: flex;
@@ -169,6 +173,7 @@
     /* border: 2px solid green; */
     margin-top: 5px;
     height: 250px;
+    background-color: aliceblue;
 }
 .ph{
     height: 10px;
@@ -194,4 +199,5 @@
     /* border: 2px solid orange; */
     margin-top: 5px;
     height: 250px;
+    background-color: aliceblue;
 }
